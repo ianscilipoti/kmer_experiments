@@ -1,0 +1,10 @@
+compare k-mer performance for all sorting algorithms 
+
+156mb - 2.5g 
+
+
+
+
+In general: 
+	1. run each experiment 20 times
+	2. the first 

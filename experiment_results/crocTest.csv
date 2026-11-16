@@ -1,0 +1,2 @@
+runningTime (ms),genThreads,mergeThreads,fanIn,bufMb,partitionType
+19111.945541,8,8,128,64,size-balanced
